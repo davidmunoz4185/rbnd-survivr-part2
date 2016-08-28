@@ -1,3 +1,9 @@
+commit 2f050a318068e1a8d020c400ac6f4c428401dd41
+Author: davidmunoz4185 <david.munoz4185@gmail.com>
+Date:   Mon Aug 29 00:30:12 2016 +0200
+
+    Tribe and Game implemented
+
 commit 7d0091585233fe921efe77f3dda3df045ccca608
 Author: davidmunoz4185 <david.munoz4185@gmail.com>
 Date:   Mon Aug 29 00:27:49 2016 +0200
