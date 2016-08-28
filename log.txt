@@ -1,3 +1,9 @@
+commit 4fce6cf668c634ea24d0bb5672681f6d645b71ea
+Author: davidmunoz4185 <david.munoz4185@gmail.com>
+Date:   Mon Aug 29 00:41:36 2016 +0200
+
+    Implemented the rest of features
+
 commit 2f050a318068e1a8d020c400ac6f4c428401dd41
 Author: davidmunoz4185 <david.munoz4185@gmail.com>
 Date:   Mon Aug 29 00:30:12 2016 +0200
