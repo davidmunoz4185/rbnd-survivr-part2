@@ -1,0 +1,88 @@
+commit 83abfc8f1cd76cef9873eb4ea2dcac8669538736
+Author: Jerome Chenette <jerome.chenette@gmail.com>
+Date:   Thu Apr 7 12:02:43 2016 -0700
+
+    New Rubric linked
+
+commit aa283fcac460763e1dc547404863d8056824dae2
+Author: Jerome Chenette <jerome.chenette@gmail.com>
+Date:   Thu Apr 7 11:52:37 2016 -0700
+
+    New Rubric linked
+
+commit 28c0be3f10ffda9c0e6cf3ffd2cab3f0b44f984f
+Merge: 382a828 212eebc
+Author: Diego Lugo <diego.lugo.06@gmail.com>
+Date:   Tue Feb 23 12:42:13 2016 -0800
+
+    Merge pull request #1 from oritavital/patch-1
+    
+    Update README.md
+
+commit 212eebcfd64782e073f9377d5d629da81a0435d7
+Author: oritavital <orit@udacity.com>
+Date:   Tue Feb 23 12:39:54 2016 -0800
+
+    Update README.md
+
+commit 382a828d7249a840ce33384d07c6f7be59667e09
+Merge: 76be394 ad42ae5
+Author: Diego Lugo <diego.lugo.06@gmail.com>
+Date:   Mon Feb 22 15:47:58 2016 -0800
+
+    Merge branch 'master' of github.com:udacity/rbnd-survivr-part2
+
+commit 76be3941bc74baf8af289144f530910df5474ff8
+Author: Diego Lugo <diego.lugo.06@gmail.com>
+Date:   Mon Feb 22 15:47:37 2016 -0800
+
+    Fix immune exclusion test
+
+commit ad42ae5d647ff60e82f0129c33fe9b3d018c4bd9
+Author: Diego Lugo <diego.lugo.06@gmail.com>
+Date:   Mon Feb 22 15:03:34 2016 -0800
+
+    Update Readme
+
+commit b70b53c00d424fd91f6a9592cf27d51d50cbaf94
+Author: Diego Lugo <diego.lugo.06@gmail.com>
+Date:   Mon Feb 22 15:02:04 2016 -0800
+
+    Update Readme
+
+commit ec1a727e8d2087582914cd6ebc9d5f4dbba502fd
+Merge: 6aecebd 1d40469
+Author: Diego Lugo <diego.lugo.06@gmail.com>
+Date:   Mon Feb 22 13:08:40 2016 -0800
+
+    Merge branch 'master' of github.com:udacity/rbnd-survivr-part2
+
+commit 6aecebd1b0fbf84d019e60b94014764a2ad3e215
+Author: Diego Lugo <diego.lugo.06@gmail.com>
+Date:   Mon Feb 22 13:08:17 2016 -0800
+
+    Fix invalid tribe_test
+
+commit 1d404691323eee626a7ca7c544fcf86d027d606a
+Author: Diego Lugo <diego.lugo.06@gmail.com>
+Date:   Mon Feb 8 17:21:48 2016 -0800
+
+    Update Readme
+
+commit 94d99eaffed243c89d4d04a5a65ba67cc1415fb9
+Author: Diego Lugo <diego.lugo.06@gmail.com>
+Date:   Thu Feb 4 15:49:18 2016 -0800
+
+    Update Readme
+
+commit 0bb5f43ff00d8712041bff1fa4cbe6aad6f52e9d
+Author: Diego Lugo <diego.lugo.06@gmail.com>
+Date:   Thu Feb 4 15:45:12 2016 -0800
+
+    Change directory tree and names
+
+commit 38c09259a3ae8e7b5f64c9074f087c7da0f95a9c
+Author: Diego Lugo <diego.lugo.06@gmail.com>
+Date:   Wed Feb 3 11:31:09 2016 -0800
+
+    Initial Commit

@@ -20,6 +20,20 @@ require_relative "jury"
 
 #This is where you will write your code for the three phases
 def phase_one
+	@iterations = 8
+  	puts "Phase 1"
+  	puts ""
+
+  	color1 = true
+  	@iterations.times do
+    		team = @borneo.immunity_challenge
+    		individual = team.tribal_council
+    		puts print_voted_off(individual.to_s.capitalize, team.name, color1 ? "pink" : "light_blue")
+    		color1 = !color1
+  	end
+
+  	puts ""
+  	@iterations
 end
 
 def phase_two
