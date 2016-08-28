@@ -1,3 +1,9 @@
+commit 7d0091585233fe921efe77f3dda3df045ccca608
+Author: davidmunoz4185 <david.munoz4185@gmail.com>
+Date:   Mon Aug 29 00:27:49 2016 +0200
+
+    Implemented contestant
+
 commit 83abfc8f1cd76cef9873eb4ea2dcac8669538736
 Author: Jerome Chenette <jerome.chenette@gmail.com>
 Date:   Thu Apr 7 12:02:43 2016 -0700
